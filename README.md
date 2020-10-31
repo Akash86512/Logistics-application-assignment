@@ -5,9 +5,19 @@ I Created customer details form to get deatils aboubt customer and save to custo
 ![Screenshot (244)](https://user-images.githubusercontent.com/46747484/97782911-52af0180-1bba-11eb-893f-42b18c04e091.png)
 
 see customer details and customer location
+
 ![Screenshot (246)](https://user-images.githubusercontent.com/46747484/97782992-cfda7680-1bba-11eb-9a83-3829d5722055.png)
 
+See List of Customer 
 
+![Screenshot (245)](https://user-images.githubusercontent.com/46747484/97783109-83dc0180-1bbb-11eb-87da-949f30a10ce1.png)
+
+creating Quotation, this will done automatically after a creation of every customer details. using visualforce
+
+![Screenshot (243)](https://user-images.githubusercontent.com/46747484/97783186-1bd9eb00-1bbc-11eb-9c6c-d2323b3a8b69.png)
+
+List of Quote created by admin
+![Screenshot (248)](https://user-images.githubusercontent.com/46747484/97783253-7ffcaf00-1bbc-11eb-9da0-d826e2feb97b.png)
 
 
 
