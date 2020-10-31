@@ -1,3 +1,17 @@
+
+
+I Created customer details form to get deatils aboubt customer and save to customer object
+
+![Screenshot (244)](https://user-images.githubusercontent.com/46747484/97782911-52af0180-1bba-11eb-893f-42b18c04e091.png)
+
+see customer details and customer location
+![Screenshot (246)](https://user-images.githubusercontent.com/46747484/97782992-cfda7680-1bba-11eb-9a83-3829d5722055.png)
+
+
+
+
+
+
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
