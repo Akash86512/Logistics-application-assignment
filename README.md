@@ -12,12 +12,40 @@ See List of Customer
 
 ![Screenshot (245)](https://user-images.githubusercontent.com/46747484/97783109-83dc0180-1bbb-11eb-87da-949f30a10ce1.png)
 
-creating Quotation, this will done automatically after a creation of every customer details. using visualforce
+List of Quote created 
+![Screenshot (248)](https://user-images.githubusercontent.com/46747484/97783253-7ffcaf00-1bbc-11eb-9da0-d826e2feb97b.png)
 
+Quote Pdf formate
+![Screenshot (250)](https://user-images.githubusercontent.com/46747484/97783300-c3efb400-1bbc-11eb-9cbe-9706fc4a62cf.png)
+
+Assert
+![Screenshot (258)](https://user-images.githubusercontent.com/46747484/97783334-f4cfe900-1bbc-11eb-9f96-172ce8c21a56.png)
+
+ Driver Details List
+ ![Screenshot (251)](https://user-images.githubusercontent.com/46747484/97783396-745db800-1bbd-11eb-9504-91fd13995fc5.png)
+
+Generating Invoice for Delivery and Driver charge
 ![Screenshot (243)](https://user-images.githubusercontent.com/46747484/97783186-1bd9eb00-1bbc-11eb-9c6c-d2323b3a8b69.png)
 
-List of Quote created by admin
-![Screenshot (248)](https://user-images.githubusercontent.com/46747484/97783253-7ffcaf00-1bbc-11eb-9da0-d826e2feb97b.png)
+Created Reports of all Delivery
+images.githubusercontent.com/46747484/97783483-1b425400-1bbe-11eb-8976-984a42ae2005.png)
+
+
+Created Report for status of Delivery
+![Screenshot (254)](https://user-images.githubusercontent.com/46747484/97783519-55abf100-1bbe-11eb-877b-4f33c0e3ab8d.png)
+
+DashBoard of All delivery and by status of delivery
+![Screenshot (255)](https://user-images.githubusercontent.com/46747484/97783534-73795600-1bbe-11eb-8a49-c13c7928930f.png)
+
+Created Workflow Rules for Delivery Status Email alert
+![Screenshot (259)](https://user-images.githubusercontent.com/46747484/97783570-b3d8d400-1bbe-11eb-81a0-18061d06942e.png)
+
+Delivery Status Email template
+![Screenshot (260)](https://user-images.githubusercontent.com/46747484/97783582-d2d76600-1bbe-11eb-9d76-312324fe31a2.png)
+
+See Mail of Delivery Status
+
+![Screenshot (261)](https://user-images.githubusercontent.com/46747484/97783600-eb478080-1bbe-11eb-9c6a-942e881ab343.png)
 
 
 
